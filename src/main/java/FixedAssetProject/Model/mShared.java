@@ -81,5 +81,4 @@ public class mShared {
 	public void setDeletedOn(String deletedOn) {
 		this.deletedOn = deletedOn;
 	}
-
 }
